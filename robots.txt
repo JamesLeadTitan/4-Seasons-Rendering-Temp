@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.4seasonsrenderingandplastering.com/sitemap.xml
+Sitemap: https://4seasonsrenderingandplastering.co.uk/sitemap.xml
